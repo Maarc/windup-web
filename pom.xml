@@ -26,7 +26,7 @@
         <version.furnace>2.25.4.Final</version.furnace>
         <version.windup>4.0.0-SNAPSHOT</version.windup>
         <version.keycloak>2.1.0.Final</version.keycloak>
-        <version.resteasy>3.0.19.Final</version.resteasy>
+        <version.resteasy>4.5.7.Final</version.resteasy>
         <version.jboss.javaee>1.0.3.Final</version.jboss.javaee>
 
         <windup.web.scm.connection>scm:git:https://github.com/windup/windup-web.git</windup.web.scm.connection>
